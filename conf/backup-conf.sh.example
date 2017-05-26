@@ -1,0 +1,4 @@
+#!/bin/bash
+MYSQL_DATABASE_EXCLUSIONS=("mysql" "information_schema" "performance_schema")
+FILE_INCLUSIONS=("/etc/rc.local")
+FOLDER_INCLUSIONS=()
